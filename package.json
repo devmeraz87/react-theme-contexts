@@ -1,5 +1,5 @@
 {
-  "name": "react-theme-contexts",
+  "name": "@devmeraz87/react-theme-contexts",
   "version": "0.0.2",
   "description": "",
   "scripts": {
@@ -31,5 +31,11 @@
     "dist"
   ],
   "type": "module",
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/devmeraz87"
+  },
+  "repository": {
+    "url": "https://github.com/devmeraz87/react-theme-contexts.git"
+  }
 }
